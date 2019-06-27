@@ -2,4 +2,4 @@
 
 Tochito Bot
 
-Basic bot with music functionality.
+Basic bot with music functionalities.
